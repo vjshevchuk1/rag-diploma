@@ -1,0 +1,7 @@
+langchain
+langchain-community
+chroma-db
+sentence-transformers
+rank_bm25
+streamlit
+pydantic
